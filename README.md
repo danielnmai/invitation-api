@@ -12,6 +12,7 @@ bundle install
 3. Create a PostgreSQL database and migrate
 
 rails db:create
+
 rails db:migrate
 
 4. Run the application
